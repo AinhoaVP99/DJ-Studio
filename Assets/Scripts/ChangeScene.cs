@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//comentario1
 public class ChangeScene : MonoBehaviour
 {
     public void ChangeLevel(string sceneName)
