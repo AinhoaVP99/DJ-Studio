@@ -47,3 +47,6 @@ TagManager:
   - name: Canva2
     uniqueID: 3222995693
     locked: 0
+  - name: Personajes
+    uniqueID: 4236147219
+    locked: 0
