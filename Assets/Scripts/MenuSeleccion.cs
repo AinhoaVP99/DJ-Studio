@@ -31,6 +31,11 @@ public class MenuSeleccion : MonoBehaviour
         {
             g.SetActive(false);
         }
+
+        if (selectedCharacter == 0)
+        {
+            playerObjects[selectedCharacter].SetActive(true);
+        }
     }
 
     public void NextCharacter() //activa el siguiente personajes desde el botón
