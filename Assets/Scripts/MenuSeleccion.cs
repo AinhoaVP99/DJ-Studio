@@ -62,5 +62,9 @@ public class MenuSeleccion : MonoBehaviour
 
         playerObjects[selectedCharacter].SetActive(true); //Activa el personaje
     }
+    public void StartGame()
+    {
+        PlayerPrefs.SetInt(selectedCharacterDataName, selectedCharacter); //almacena que personaje pasa a la zona de juego
+    }
 
 }
