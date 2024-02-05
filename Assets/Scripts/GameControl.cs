@@ -7,7 +7,7 @@ public class GameControl : MonoBehaviour
 {
     public GameObject[] characters; //Se almacenan varios valores (array). Prefabs de personajes
     public Transform playerStartPosition; //Posición inicial del personaje
-    public string menuScene = "Selection";//Nombre de la escena de selección
+    public string menuScene = "Personalizacion";//Nombre de la escena de selección
     public string selectedCharacterDataName = "SelectedCharacter"; //nombre del personaje seleccionado
     int selectedCharacter; //Numero del personaje en el array
     public GameObject playerObject; //Referencia del personaje

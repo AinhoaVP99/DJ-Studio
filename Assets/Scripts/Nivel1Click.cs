@@ -8,7 +8,9 @@ public class Nivel1Click : MonoBehaviour
     public string sceneName;
     private void OnMouseDown()
     {
+        ChangeSprite();
         SceneManager.LoadScene(sceneName);
+        
     }
 
     public SpriteRenderer spriteRenderer;
@@ -30,11 +32,11 @@ public class Nivel1Click : MonoBehaviour
         //ChangeSprite(newSprite);
     //}
     // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-            ChangeSprite();
-        }
-    }
+    //void Update()
+    //{
+       // if (Input.GetMouseButtonDown(0))
+        //{
+            //ChangeSprite();
+        //}
+    //}
 }
