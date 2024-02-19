@@ -15,6 +15,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Setting.unity
     guid: dfcd48aa0038bae46b85ebdc3a343bc8
   - enabled: 1
-    path: Assets/Scenes/Minijuego.unity
+    path: Assets/Scenes/Minijuego_Intervalos.unity
     guid: 950fc2c2069ca014b8fc430de3e87709
+  - enabled: 1
+    path: Assets/Scenes/Personalizacion.unity
+    guid: ec36cf3345ee90e4e9beb08589dc6d26
+  - enabled: 1
+    path: Assets/Scenes/Catalogo.unity
+    guid: be0d6a16e15c01941aa362bb40a8f4f3
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 55324deb14dc21347a113a56ff5609e9
   m_configObjects: {}
