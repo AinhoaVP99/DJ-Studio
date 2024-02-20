@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Setting.unity
     guid: dfcd48aa0038bae46b85ebdc3a343bc8
   - enabled: 1
-    path: Assets/Scenes/Minijuego_Intervalos.unity
+    path: Assets/Scenes/Minijuego_Intervalos1.unity
     guid: 950fc2c2069ca014b8fc430de3e87709
   - enabled: 1
     path: Assets/Scenes/Personalizacion.unity
@@ -24,6 +24,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Catalogo.unity
     guid: be0d6a16e15c01941aa362bb40a8f4f3
   - enabled: 1
-    path: Assets/Scenes/Selection.unity
-    guid: 55324deb14dc21347a113a56ff5609e9
+    path: Assets/Scenes/Derrota.unity
+    guid: 59472a0bb66176d498dfee975bb6ae3d
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: b5188485216c7da4985af88247f9d7d0
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_Intervalos2.unity
+    guid: 22091cea0b45ab74ab8d39a06612af26
   m_configObjects: {}
